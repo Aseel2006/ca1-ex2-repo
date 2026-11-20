@@ -1,1 +1,1 @@
-file1
+print("Starting server...")
